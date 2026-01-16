@@ -1,0 +1,7 @@
+{
+  "name": "工商联管理服务智能体",
+  "description": "为工商联会员企业打造的一站式智能服务平台，集成政策服务、金融对接、法律咨询及AI智能问答功能。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
